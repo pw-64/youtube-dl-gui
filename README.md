@@ -1,2 +1,10 @@
 # youtube-dl-gui
-A YouTube downloader. Can process single videos, playlists, audio and video. Has a tkinter gui to be more user-friendly.
+
+This is an extension of pytube to impliment a GUI.
+
+Requires in the environment:
+- selenium
+- webdriver_manager
+- bs4
+- tkinter
+- pytube
